@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm [Your Name], a student pursuing Applied Computer Science with a focus on Network and System Administration at Karel de Grote Hogeschool in Antwerp, Belgium.
+👋 Hi there! I'm Kobe Wijnants, a student pursuing Applied Computer Science with a focus on Network and System Administration at Karel de Grote Hogeschool in Antwerp, Belgium.
 
 
 ## 🌐 Socials:
