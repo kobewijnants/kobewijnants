@@ -8,7 +8,7 @@ I'm a recently graduated IT professional with a strong interest in DevOps, Cloud
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kobe-wijnants) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kobe-wijnants) 
 
 ## 💻 My Projects
 
