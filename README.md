@@ -4,7 +4,7 @@ Welcome! This is where I document a summary of the projects I've been working on
 
 ## 🙋🏼‍♂️ About me
 
-I'm a recently graduated IT professional with a strong interest in DevOps, Cloud, Infrastructure.
+I'm a recently graduated IT professional with a strong interest in DevOps, Cloud, Infrastructure, Linux, ...
 
 ## 🌐 Socials
 
